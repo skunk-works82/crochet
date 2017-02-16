@@ -1,0 +1,55 @@
+Skull trim beanie
+
+
+Beanie top:
+
+
+1.  Magic circle. 10 hdc in magic circle  (10)
+2. 2 HDC into each of next 10 stitches  (20)
+3. **2HDC into the next stitch. HDC into next.  Repeat from ** 9 more times (30)
+4. **2HDC into the next stitch. HDC into next 2 stitches.  Repeat from ** 9 more times (40)
+5. **2HDC into the next stitch. HDC into next 3 stitches.  Repeat from ** 9 more times (50)
+6. **2HDC into the next stitch. HDC into next 4 stitches.  Repeat from ** 9 more times (60)
+7. 1 HDC into each  (60)
+8. **2HDC into the next stitch. HDC into next 5 stitches.  Repeat from ** 9 more times (70)
+9. 1 HDC into each (70)
+10. **2HDC into the next stitch. HDC into next 6 stitches.  Repeat from ** 9 more times (80)
+11. - 18.  1 HDC into each (80)
+      19. 1 HDC into next 78. SC into next, slip into next (80)
+
+
+Skull border.
+
+
+This part is based off of scribbled notes and memory.  Counts may not work out exactly and you may have to improvise.  The base width of each skull is 8 stitches (hence the beanie being 80 stitches around).  Each one of these following patterns should be repeated 10 times to finish the round.  If I mention a stitch number, it will be relative to that pattern.  SC 2 into stitch 1 would mean SC two into first stitch of whichever repeat you are on.
+
+
+1. SC 6, chain 3, skip 2. (Start next in 1st stitch of next pattern (stitch 9) )
+2. SC 2 into first stitch, SC into next 4, SC 2 into stitch 6, chain 2 through gap from last row
+3. SC 8 into next 8, chain 2 through gap
+
+
+This forms the top of the head.  The gap created is the curve between the tops of the skulls.  Chains are all done through the same gap to compress the rows and open it up.  We are still on an 8 stitch base here.  Going forward,this will grow a little and then reduce at the end.
+
+
+The next step is eyes and nose.  Eyes are created in round 4 with two chain 3’s connected back with slip stitches at stitch 4 and 5.  In the next round, 4 SDC’s are put around this chain to fill out the eye socket.  The single chain between the eyes in round 5 defines the nose hole.  The final step in round 5 is a single chain into the gap left by the final chain 1 in round 4.  We are still on a base width of 8 stitches.
+
+
+4. SC. Chain 3. slip into stitch 4. Slip into stitch 5.  Chain 3. SC into 8.  Chain 1
+5. HDC 1. SC 4 into space.  Chain 1. SC 4 into space. HDC into stitch 8. Chain into space.
+
+
+The jawline.  This is where things get hazy and my notes not so clear.  We are also no longer on an 8 stitch base because of the extra stitches for the eyes.  It should be base 12.  The pattern is also symmetric.  You will do the same thing on each half, just mirrored.
+
+
+6.  SC decrease into 1 and 2.  DC. SC into next 2.  SC 2 into nose gap.  SC next 2, DC, SC decrease in next 2. SC into gap
+7. Slip decrease into 1 and 2. Slip into 3 and 4. TC into same stitch ( stitch 4 ). DC into next 2.  TC into 7. Slip into same ( stitch 7). Slip into next. Slip decrease 9 and 10.
+
+
+This completes the skull head.  Now to finish out the bottom.  Color change back to the base color.  I actually have no notes from here down.  The pattern looks something like:
+
+
+SC decrease, SC. You are now against the teeth.  Slip 4 across, SC, SC decrease.
+
+
+Now you can finish the round as you like.  I did a row of HDC with some DC decreases to get the fit right, then another of just HDC’s to the right length.
